@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Please cite the associated article and identify the workflow version used."
+title: "Atmosphere and ocean Blender workflow"
+type: software
+authors:
+  - family-names: Ma
+    given-names: Tian
+abstract: "An editable Blender workflow for three-dimensional visualization in atmospheric and ocean sciences, with a Northwest Pacific circulation example."
